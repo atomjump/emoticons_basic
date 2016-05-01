@@ -1,3 +1,5 @@
+<img src="https://atomjump.com/images/logo80.png">
+
 # emoticons_basic
 Plugin that adds basic emoticons to messages in the AtomJump Loop Server.
 
@@ -17,8 +19,11 @@ Add the string "emoticons_basic" into your-loop-server/config/config.json plugin
 Enter 
 
 :)  for a smiley
+
 :(  for a frown
+
 ;)  for a wink
+
 lol  for a 'laugh-out-loud'
 
 into your messages.
