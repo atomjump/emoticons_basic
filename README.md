@@ -3,6 +3,10 @@
 # emoticons_basic
 Plugin that adds basic emoticons to messages in the AtomJump Loop Server.
 
+## Requirements
+
+AtomJump Loop Server >= 0.5.0
+
 ## Installation
 
 Unzip or git clone into the folder: your-loop-server/plugins/emoticons_basic
