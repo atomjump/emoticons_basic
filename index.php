@@ -13,19 +13,19 @@
 
             //e.g. hide the message we have just posted if it includes the string 'aargh' in it.
             if(strpos($message, ':)') !== false) {
-                $message = str_replace(":)", '<img src="' . $root_server_url . '/plugins/emoticons_basic/img/smiley.png">', $message);
+                $message = str_replace(":)", '<img width="16" height="16" src="' . $root_server_url . '/plugins/emoticons_basic/img/smiley.png">', $message);
             }
             
             if(strpos($message, ';)') !== false) {
-                $message = str_replace(";)", '<img src="' . $root_server_url . '/plugins/emoticons_basic/img/wink.png">', $message);
+                $message = str_replace(";)", '<img width="16" height="16" src="' . $root_server_url . '/plugins/emoticons_basic/img/wink.png">', $message);
             }
             
             if(strpos($message, ':(') !== false) {
-                $message = str_replace(":(", '<img src="' . $root_server_url . '/plugins/emoticons_basic/img/sad.png">', $message);
+                $message = str_replace(":(", '<img width="16" height="16" src="' . $root_server_url . '/plugins/emoticons_basic/img/sad.png">', $message);
             }
             
              if(strpos($message, 'lol') !== false) {
-                $message = str_replace("lol", '<img src="' . $root_server_url . '/plugins/emoticons_basic/img/lol.png">', $message);
+                $message = str_replace("lol", '<img width="16" height="16" src="' . $root_server_url . '/plugins/emoticons_basic/img/lol.png">', $message);
             }
 
             return $message;
