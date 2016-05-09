@@ -31,3 +31,11 @@ Enter
 lol  for a 'laugh-out-loud'
 
 into your messages.
+
+
+## Credits
+These icons are from fugue by yusuke-kamiyamane.
+
+## Future
+
+For iphones and other hi-res screens, include double size icons.
