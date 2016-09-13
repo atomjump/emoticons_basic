@@ -18,6 +18,8 @@ Add the string "emoticons_basic" into your-loop-server/config/config.json plugin
       ]
       
       
+Also see emoticons_large plugin for a more complete option.      
+      
 ## Using
 
 Enter 
@@ -38,4 +40,4 @@ These icons are from fugue by yusuke-kamiyamane.
 
 ## Future
 
-For iphones and other hi-res screens, include double size icons.
+For iphones and other hi-res screens, include double size icons. 
