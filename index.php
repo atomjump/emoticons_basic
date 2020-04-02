@@ -8,7 +8,7 @@
             global $root_server_url;
             
             //Do your thing in here. Here is a sample.
-            $api = new cls_plugin_api();
+            //$api = new cls_plugin_api();
             
 
             //e.g. hide the message we have just posted if it includes the string 'aargh' in it.
