@@ -1,5 +1,7 @@
 <img src="https://atomjump.com/images/logo80.png">
 
+__WARNING: this project has now moved to https://src.atomjump.com/atomjump/emoticons_basic.git__
+
 # emoticons_basic
 Plugin that adds basic emoticons to messages in the AtomJump Messaging Server.
 
